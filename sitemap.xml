@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://trusen.github.io/post/blog/</loc>
+    <loc>https://Trusen.github.io/post/blog/</loc>
     <lastmod>2020-07-08T20:36:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://trusen.github.io/</loc>
+    <loc>https://Trusen.github.io/</loc>
     <lastmod>2020-07-08T20:36:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://trusen.github.io/post/</loc>
+    <loc>https://Trusen.github.io/post/</loc>
     <lastmod>2020-07-08T20:36:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://trusen.github.io/categories/</loc>
+    <loc>https://Trusen.github.io/post/%E5%B0%8F%E7%9F%A5%E8%AF%86/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://trusen.github.io/tags/</loc>
+    <loc>https://Trusen.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Trusen.github.io/tags/</loc>
   </url>
   
 </urlset>
